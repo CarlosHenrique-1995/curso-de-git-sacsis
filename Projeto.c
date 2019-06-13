@@ -17,6 +17,11 @@ int mult(int a, int b)
 	return mult_num;
 }
 
+int div(int a, int b)
+{
+	int mult_num = a*b;
+	return mult_num;
+}
 
 int main(){
 	
